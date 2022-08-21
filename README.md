@@ -1,3 +1,4 @@
+View Project - https://khushipm.github.io/Scoreboard/
 # Scoreboard
 - It displays the scores of 2 teams.
 - Designed using HTML/ CSS
